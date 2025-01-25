@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Android Developer with 5 years of experience crafting high-quality applications using Kotlin, Java, and Git. Proven expertise in leveraging RESTful APIs, Firebase, and Android Jetpack libraries to deliver seamless user experiences. Skilled in MVVM architecture, Compose, Ktor, Retrofit, and Room Database. Recognized for developing industry-standard apps with millions of users and excelling in bug resolution and production issue handling. Adept at collaborating within dynamic team environments and committed to continuous learning and self-improvement. Eager to contribute expertise and drive growth within a forward-thinking organization.
+Senior Android Developer with 5+ years of experience crafting high-quality applications using Kotlin, Java, and Git. Proven expertise in leveraging RESTful APIs, Firebase, and Android Jetpack libraries to deliver seamless user experiences. Skilled in MVVM architecture, Compose, Ktor, Retrofit, and Room Database. Recognized for developing industry-standard apps with millions of users and excelling in bug resolution and production issue handling. Adept at collaborating within dynamic team environments and committed to continuous learning and self-improvement. Eager to contribute expertise and drive growth within a forward-thinking organization.
 
 
 ## 🌐 Socials:
