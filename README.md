@@ -1,8 +1,11 @@
 # 💫 About Me:
 ## Omkar Sawant — Senior Android Engineer
 
-6+ years building Android apps in Kotlin, Jetpack Compose, MVI/MVVM.
-Currently at Neosoft — working on UPI SDK under Hatio for (BillDesk/NPCI) and AR Try-On for Tata CLiQ (50M+ users).
+Senior Android Engineer with 6+ years delivering consumer-grade apps across fintech, healthcare, and e-commerce. At
+Inovant Solutions, shipped 7+ greenfield products, cut team onboarding time by 50% through documentation, and
+mentored 4 developers to improve sprint delivery. Currently at Neosoft, architecting a NPCI-compliant UPI Plugin SDK
+under BillDesk/Hatio and leading ARCore-based Try-On R&D for Tata CLiQ. Deep expertise in Kotlin, Jetpack Compose,
+MVI/MVVM, SDK development, and KMP/CMP cross-platform engineeringsers).
 
 **Specializations:**  Ecommerce · Healthcare · SDK · AR (ARCore/SceneView) · KMP/CMP · Clean Architecture 
 
