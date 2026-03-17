@@ -5,7 +5,7 @@ Senior Android Engineer with 6+ years delivering consumer-grade apps across fint
 Inovant Solutions, shipped 7+ greenfield products, cut team onboarding time by 50% through documentation, and
 mentored 4 developers to improve sprint delivery. Currently at Neosoft, architecting a NPCI-compliant UPI Plugin SDK
 under BillDesk/Hatio and leading ARCore-based Try-On R&D for Tata CLiQ. Deep expertise in Kotlin, Jetpack Compose,
-MVI/MVVM, SDK development, and KMP/CMP cross-platform engineeringsers).
+MVI/MVVM, SDK development, and KMP/CMP cross-platform engineering.
 
 **Specializations:**  Ecommerce · Healthcare · SDK · AR (ARCore/SceneView) · KMP/CMP · Clean Architecture 
 
